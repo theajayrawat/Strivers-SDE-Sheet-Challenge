@@ -1,5 +1,5 @@
-// Time Complexity: O(N^2)
-// Space Complexity: O(1)
+// Space Complexity: O(N log N)
+// Space Complexity: O(N)
 
 #include <bits/stdc++.h>
 long long merge(long long arr[], long long temp[], int left, int mid, int right)
